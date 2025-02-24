@@ -1,2 +1,2 @@
-# DA-Client-0G-Labs-modol.eth
+# DA-Client-0G-Labs
 This is my documentation of my node project.
