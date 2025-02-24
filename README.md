@@ -19,3 +19,9 @@ docker stop 0g-da-client
 docker rm 0g-da-client
 rm -rf $HOME/0g-da-client
 ```
+# Faucet (if you need)
+https://faucet.0g.ai/
+
+https://hub.0g.ai/faucet
+
+# Official Website: https://0g.ai/
